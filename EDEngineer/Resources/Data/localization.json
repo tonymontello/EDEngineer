@@ -3365,7 +3365,7 @@
       "cs": "Tichý start"
     },
     "Search visible blueprints (by Type, Name, Grade or Engineer) - split your terms with a space for multi-criteria search": {
-      "es": null,
+      "es": "Busqueda de planos disponibles (por Tipo, Nombre, Grado o Ingeniero) - divide los términos con un espacio para una búsqueda de criterios múltiples",
       "pt": "Procure diagramas disponíveis (por Tipo, Nome, Grau ou Engenheiro) - separe os termos com um espaço para pesquisa multi-critério",
       "de": "Suche nach verfügbaren Bauplänen (Begriffe durch 'Leerzeichen' trennen)",
       "fr": "Rechercher les plans de fabrications visible (par Type, Nom, Grade ou Ingénieur) - séparez vos termes avec un espace pour une recharche multi-critères",
@@ -3428,7 +3428,7 @@
       "cs": "Long Range Scanner"
     },
     "Wide Angle Scanner": {
-      "es": null,
+      "es": "Escáner de Ángulo Amplio",
       "pt": "Scanner de ângulo amplo",
       "de": "Weitwinkel-Scanner",
       "fr": "Scanner à Angle Large",
@@ -3437,7 +3437,7 @@
       "cs": "Wide Angle Scanner"
     },
     "Light Weight Scanner": {
-      "es": null,
+      "es": "Escáner Liviano",
       "pt": "Scanner leve",
       "de": "Leichter Scanner",
       "fr": "Scanner Léger",
@@ -3509,7 +3509,7 @@
       "cs": "Thargoid Structural Data"
     },
     "Thargoid Carapace": {
-      "es": null,
+      "es": "Carapace Thargoide",
       "pt": "Carapaça Thargoid",
       "de": "unbekannte Panzerung",
       "fr": "Carapace Thargoid",
@@ -3545,7 +3545,7 @@
       "cs": "Thargoid Technological Components"
     },
     "Ship Flight Data": {
-      "es": null,
+      "es": "Datos de Vuelo de la Nave",
       "pt": "Dados de voo da nave",
       "de": "Schiff-Flug-Daten",
       "fr": "Donnée de Vol",
@@ -3554,7 +3554,7 @@
       "cs": "Ship Flight Data"
     },
     "Ship System Data": {
-      "es": null,
+      "es": "Datos del Sistema de la Nave",
       "pt": "Dados do sistema da nave",
       "de": "Schiff-System-Daten",
       "fr": "Données de Système de Navigation",
@@ -3563,7 +3563,7 @@
       "cs": "Ship System Data"
     },
     "Wreckage Components": {
-      "es": null,
+      "es": "Componentes de Destrozos",
       "pt": "Destroços de componentes",
       "de": "Wrackteile",
       "fr": "Composants d'Épave",
@@ -3572,7 +3572,7 @@
       "cs": "Wreckage Components"
     },
     "Weapon Parts": {
-      "es": null,
+      "es": "Partes de Armas",
       "pt": "Partes de armas",
       "de": "Waffenteile",
       "fr": "Éléments d'Arme",
@@ -3689,7 +3689,7 @@
       "cs": "Gold"
     },
     "Kamitra Cigars": {
-      "es": null,
+      "es": "Cigarros de Kamitra",
       "pt": "Charutos de Kamitra",
       "de": "Kamitra-Zigarren",
       "fr": "Cigares de Kamitra",
@@ -3743,7 +3743,7 @@
       "cs": "Meta-alloys"
     },
     "Painite": {
-      "es": null,
+      "es": "Painita",
       "pt": "Painita",
       "de": "Painit",
       "fr": "Painite",
@@ -3761,7 +3761,7 @@
       "cs": "Soontill Relics"
     },
     "Xihe Companions": {
-      "es": null,
+      "es": "Compañeros Xihe",
       "pt": "Companheiros Xihe",
       "de": "Haustiere von Xihe",
       "fr": "Compagnions Xihe",
@@ -3770,7 +3770,7 @@
       "cs": "Xihe Companions"
     },
     "Raw": {
-      "es": null,
+      "es": "Puro",
       "pt": "Bruto",
       "de": "roh",
       "fr": "À l'état brut",
@@ -3779,7 +3779,7 @@
       "cs": "Surové (Raw)"
     },
     "Raw Only": {
-      "es": null,
+      "es": "Solamente Puro",
       "pt": "Apenas Bruto",
       "de": "nur roh",
       "fr": "Uniquement à l'état brut",
@@ -3788,7 +3788,7 @@
       "cs": "Pouze surové(Raw only)"
     },
     "Manufactured": {
-      "es": null,
+      "es": "Manufacturado",
       "pt": "Fabricado",
       "de": "hergestellt",
       "fr": "Manufacturé(s)",
@@ -3797,7 +3797,7 @@
       "cs": "Vyrobené(Manufactured)"
     },
     "Manufactured Only": {
-      "es": null,
+      "es": "Solamente Manufacturado",
       "pt": "Apenas Fabricado",
       "de": "nur hergestellt",
       "fr": "Uniquement manufacturé(s)",
@@ -3806,7 +3806,7 @@
       "cs": "Pouze vyrobené(Manufact.only)"
     },
     "Unrecognized Ingredient (showing name as it appears in the logs). Please open a GitHub issue to let the author know what is the real name of this!": {
-      "es": null,
+      "es": "Ingrediente no reconocido (mostrando el nombre como aparece en los registros) ¡por favor, abra un reporte en GitHub para que el autor sepa el nombre real!",
       "pt": "Ingrediente não reconhecido (mostrando o nome como aparece nos registros). Abra um problema do GitHub para que o autor saiba qual é o nome verdadeiro disso!",
       "de": "Unbekannter Bestandteil (zeigt den Namen, wie er in den Protokollen erscheint). Bitte öffnen Sie ein GitHub-Issue, um den Autor wissen zu lassen, wie dieser wirklich heißt!",
       "fr": null,
@@ -3815,7 +3815,7 @@
       "cs": "Nerozpoznaná ingredience (Zobrazené jméno je tak, jak se vyskytuje v logu). Prosím otevřete požadavek na GitHubu a dejte vědět autorovi správný název ingredience!"
     },
     "Group ingredients?": {
-      "es": null,
+      "es": "Grupo de Ingredientes",
       "pt": null,
       "de": "Gruppenzutaten?",
       "fr": "Groupe d'ingrédients ?",
@@ -3824,7 +3824,7 @@
       "cs": "Seskupovat ingredience?"
     },
     "Unknown": {
-      "es": null,
+      "es": "Desconocido",
       "pt": "Desconhecido",
       "de": "Unbekannt",
       "fr": "Inconnu",
@@ -3833,7 +3833,7 @@
       "cs": "Neznámé"
     },
     "Carrying ": {
-      "es": null,
+      "es": "Transportando",
       "pt": null,
       "de": "Trasportieren ",
       "fr": "Capacité",
@@ -3842,7 +3842,7 @@
       "cs": "Vlastněno "
     },
     "Emission Data": {
-      "es": null,
+      "es": "Data de Emisiones",
       "pt": null,
       "de": "Emissionsdaten",
       "fr": "Données d'émission",
@@ -3851,7 +3851,7 @@
       "cs": "Emission Data"
     },
     "Wake Scans": {
-      "es": null,
+      "es": "Escaneos Wake",
       "pt": null,
       "de": "Sogwolken Scans",
       "fr": "Données de sillages",
@@ -3860,7 +3860,7 @@
       "cs": "Wake Scans"
     },
     "Shield Data": {
-      "es": null,
+      "es": "Datos de los Escudos",
       "pt": null,
       "de": "Schilddaten",
       "fr": "Données de bouclier",
@@ -3869,7 +3869,7 @@
       "cs": "Shield Data"
     },
     "Encryption Files": {
-      "es": null,
+      "es": "Datos Encriptados",
       "pt": null,
       "de": "Verschlüsselungsdaten",
       "fr": "Fichiers cryptés",
@@ -3878,7 +3878,7 @@
       "cs": "Encryption Files"
     },
     "Data Archives": {
-      "es": null,
+      "es": "Archivos de Datos",
       "pt": null,
       "de": "Datenarchive",
       "fr": "Archives de données",
@@ -3887,7 +3887,7 @@
       "cs": "Data Archives"
     },
     "Encoded Firmware": {
-      "es": null,
+      "es": "Firmware Codificado",
       "pt": null,
       "de": "Codierte Firmware",
       "fr": "Micrologiciels encodés",
@@ -3896,7 +3896,7 @@
       "cs": "Encoded Firmware"
     },
     "Category 1": {
-      "es": null,
+      "es": "Categoría 1",
       "pt": "Categoria 1",
       "de": "Kategorie 1",
       "fr": "Matériaux bruts - Catégorie 1",
@@ -3905,7 +3905,7 @@
       "cs": "Kategorie 1"
     },
     "Category 2": {
-      "es": null,
+      "es": "Categoría 2",
       "pt": "Categoria 2",
       "de": "Kategorie 2",
       "fr": "Matériaux bruts - Catégorie 2",
@@ -3914,7 +3914,7 @@
       "cs": "Kategorie 2"
     },
     "Category 3": {
-      "es": null,
+      "es": "Categoría 3",
       "pt": "Categoria 3",
       "de": "Kategorie 3",
       "fr": "Matériaux bruts - Catégorie 3",
@@ -3923,7 +3923,7 @@
       "cs": "Kategorie 3"
     },
     "Category 4": {
-      "es": null,
+      "es": "Categoría 4",
       "pt": "Categoria 4",
       "de": "Kategorie 4",
       "fr": "Matériaux bruts - Catégorie 4",
@@ -3932,7 +3932,7 @@
       "cs": "Kategorie 4"
     },
     "Category 5": {
-      "es": null,
+      "es": "Categoría 5",
       "pt": "Categoria 5",
       "de": "Kategorie 5",
       "fr": "Matériaux bruts - Catégorie 5",
@@ -3941,7 +3941,7 @@
       "cs": "Kategorie 5"
     },
     "Category 6": {
-      "es": null,
+      "es": "Categoría 6",
       "pt": "Categoria 6",
       "de": "Kategorie 6",
       "fr": "Matériaux bruts - Catégorie 6",
@@ -3950,7 +3950,7 @@
       "cs": "Kategorie 6"
     },
     "Category 7": {
-      "es": null,
+      "es": "Categoría 7",
       "pt": "Categoria 7",
       "de": "Kategorie 7",
       "fr": "Matériaux bruts - Catégorie 7",
@@ -3959,7 +3959,7 @@
       "cs": "Kategorie 7"
     },
     "Chemical": {
-      "es": null,
+      "es": "Químico",
       "pt": null,
       "de": "Chemikalien",
       "fr": "Produits chimiques",
@@ -3968,7 +3968,7 @@
       "cs": "Chemické (Chemical)"
     },
     "Thermic": {
-      "es": null,
+      "es": "Térmico",
       "pt": "Térmico",
       "de": "Thermisch",
       "fr": "Thermiques",
@@ -3977,7 +3977,7 @@
       "cs": "Termické (Thermic)"
     },
     "Heat": {
-      "es": null,
+      "es": "Calor",
       "pt": null,
       "de": "Hitze",
       "fr": "Chaleur",
@@ -3986,7 +3986,7 @@
       "cs": "Tepelné (Heat)"
     },
     "Conductive": {
-      "es": null,
+      "es": "Conductivo",
       "pt": null,
       "de": "Leiter",
       "fr": "Conducteurs",
@@ -3995,7 +3995,7 @@
       "cs": "Konduktivní (Conductive)"
     },
     "Capacitors": {
-      "es": null,
+      "es": "Capacitadores",
       "pt": null,
       "de": "Kondensatoren",
       "fr": "Condensateurs",
@@ -4004,7 +4004,7 @@
       "cs": "Kondenzátory (Capacitors)"
     },
     "Shielding": {
-      "es": null,
+      "es": "Escudos",
       "pt": null,
       "de": "Abschirmung",
       "fr": "Protection",
@@ -4013,7 +4013,7 @@
       "cs": "Stínění (Shielding)"
     },
     "Composite": {
-      "es": null,
+      "es": "Compositivo",
       "pt": null,
       "de": "Komposite",
       "fr": "Composites",
@@ -4022,7 +4022,7 @@
       "cs": "Kompozity (Composite)"
     },
     "Crystals": {
-      "es": null,
+      "es": "Cristales",
       "pt": null,
       "de": "Kristalle",
       "fr": "Cristaux",
@@ -4031,7 +4031,7 @@
       "cs": "Krystaly (Crystals)"
     },
     "Alloys": {
-      "es": null,
+      "es": "Aleaciones",
       "pt": "Ligas",
       "de": "Legierungen",
       "fr": "Alliages",
@@ -4040,7 +4040,7 @@
       "cs": "Slitiny (Alloys)"
     },
     "Lead": {
-      "es": null,
+      "es": "Plomo",
       "pt": "Chumbo",
       "de": "Blei",
       "fr": null,
@@ -4049,7 +4049,7 @@
       "cs": "Lead"
     },
     "Boron": {
-      "es": null,
+      "es": "Boro",
       "pt": "Boro",
       "de": "Bor",
       "fr": null,
@@ -4058,7 +4058,7 @@
       "cs": "Boron"
     },
     "Guardian Weapon Blueprint Segment": {
-      "es": null,
+      "es": "Segmento del Plano de Arma Guardian",
       "pt": "Segmento de Diagrama de Arma Guardian",
       "de": "Guardian-Waffenbauplansegment",
       "fr": null,
@@ -4067,7 +4067,7 @@
       "cs": "Guardian Weapon Blueprint Segment"
     },
     "Guardian Power Cell": {
-      "es": null,
+      "es": "Celda de Energía Guardian",
       "pt": "Bateria Guardian",
       "de": "Guardian-Energiezelle",
       "fr": null,
@@ -4076,7 +4076,7 @@
       "cs": "Guardian Power Cell"
     },
     "Guardian Technology Component": {
-      "es": null,
+      "es": "Componente Tecnológico Guardian",
       "pt": "Componente de Tecnologia Guardian",
       "de": "Guardian-Technologiekomponente",
       "fr": null,
@@ -4085,7 +4085,7 @@
       "cs": "Guardian Technology Component"
     },
     "Guardian Power Conduit": {
-      "es": null,
+      "es": "Conducto de Energía Guardian",
       "pt": "Condutores de Potência Guardian",
       "de": "Guardian-Energieleiter",
       "fr": null,
@@ -4094,7 +4094,7 @@
       "cs": "Guardian Power Conduit"
     },
     "Guardian Sentinel Weapon Parts": {
-      "es": null,
+      "es": "Partes de Armas de Guardian Sentinela",
       "pt": "Peças de Armas Sentinela Guardian",
       "de": "Guardian-Wache-Waffenteile",
       "fr": null,
@@ -4103,7 +4103,7 @@
       "cs": "Guardian Sentinel Weapon Parts"
     },
     "Guardian Module Blueprint Segment": {
-      "es": null,
+      "es": "Segmento de Plano de Módulo Guardian",
       "pt": "Segmento de Diagrama de Módulo Guardian",
       "de": "Guardian-Modulbauplansegment",
       "fr": null,
@@ -4112,7 +4112,7 @@
       "cs": "Guardian Module Blueprint Segment"
     },
     "Guardian Sentinel Wreckage Components": {
-      "es": null,
+      "es": "Componentes de Destrozos de Guardian Sentinela",
       "pt": "Componentes de Destroços Sentinela Guardian",
       "de": "Guardian-Wache Trümmerteile",
       "fr": null,
@@ -4121,7 +4121,7 @@
       "cs": "Guardian Sentinel Wreckage Components"
     },
     "Guardian Vessel Blueprint Segment": {
-      "es": null,
+      "es": "Segmento de Planos de Nave Guardian",
       "pt": null,
       "de": "Guardian-Schiffsbauplansegment",
       "fr": null,
@@ -4130,7 +4130,7 @@
       "cs": "Guardian Vessel Blueprint Segment"
     },
     "Human": {
-      "es": null,
+      "es": "Humano",
       "pt": "Humano",
       "de": "Menschlich",
       "fr": null,
@@ -4139,7 +4139,7 @@
       "cs": "Lidské"
     },
     "Corrosion Resistant Cargo Rack (2D and 4D)": {
-      "es": null,
+      "es": "Estante de Carga Resistente a la Corrosión (2D y 4D)",
       "pt": "Estante de Carga Anti-Corrosiva (2D e 4D)",
       "de": "Korrosionsresistentes Frachtegtell (2D and 4D)",
       "fr": null,
@@ -4148,7 +4148,7 @@
       "cs": "Corrosion Resistant Cargo Rack (2D and 4D)"
     },
     "Enzyme Missile Rack": {
-      "es": null,
+      "es": "Armero de Misiles Enzima",
       "pt": "Estante de Mísseis Enzimáticos",
       "de": "Enzym Raketenrampe",
       "fr": null,
@@ -4157,7 +4157,7 @@
       "cs": "Enzyme Missile Rack"
     },
     "Guardian": {
-      "es": null,
+      "es": "Guardian",
       "pt": "Guardian",
       "de": "Guardian",
       "fr": null,
@@ -4166,7 +4166,7 @@
       "cs": "Guardiánské"
     },
     "Guardian Gauss Cannon (Fixed)": {
-      "es": null,
+      "es": "Cañón Guardian Gauss (Fijo)",
       "pt": "Canhão Gauss Guardian (Fixa)",
       "de": "Guardian-Gausskannone (Fest)",
       "fr": "Canon de gauss - Guardians (Fixe)",
@@ -4175,7 +4175,7 @@
       "cs": "Guardian Gauss Cannon (Fixed)"
     },
     "Guardian Plasma Charger (Fixed)": {
-      "es": null,
+      "es": "Cargador de Plasma Guardian (Fijo)",
       "pt": "Carregador de Plasma Guardian (Fixa)",
       "de": "Guardian-Plasmalader (Fest)",
       "fr": "Chargeur à plasma - Guardians (Fixe)",
@@ -4184,7 +4184,7 @@
       "cs": "Guardian Plasma Charger (Fixed)"
     },
     "Guardian Plasma Charger (Turreted)": {
-      "es": null,
+      "es": "Cargador de Plasma Guardian (Torreta)",
       "pt": "Carregador de Plasma Guardian (Torretada)",
       "de": "Guardian-Plasmalader (Turm)",
       "fr": "Chargeur à plasma - Guardians (Tourelle)",
@@ -4193,7 +4193,7 @@
       "cs": "Guardian Plasma Charger (Turreted)"
     },
     "Guardian Hybrid Power Plant": {
-      "es": null,
+      "es": "Generador de Energía Híbrido Guardian",
       "pt": "Gerador de Energia Guardian",
       "de": "Guardian-Kraftwerk",
       "fr": "Générateur - Guardians",
@@ -4202,7 +4202,7 @@
       "cs": "Guardian Hybrid Power Plant"
     },
     "Meta Alloy Hull Reinforcement": {
-      "es": null,
+      "es": "Refuerzos de cazco de Meta Aleaciones",
       "pt": null,
       "de": "Meta-Legierung-Hüllenverstärkung",
       "fr": null,
@@ -4265,7 +4265,7 @@
       "cs": "Concordant Sequence"
     },
     "Regeneration Sequence": {
-      "es": null,
+      "es": "Secuencia de Regeneración",
       "pt": null,
       "de": "regenerierende Sequenz",
       "fr": null,
@@ -4274,7 +4274,7 @@
       "cs": "Regeneration Sequence"
     },
     "Thermal Conduit": {
-      "es": null,
+      "es": "Conductor Térmico",
       "pt": null,
       "de": "Hitzerohr",
       "fr": null,
@@ -4292,7 +4292,7 @@
       "cs": "Thermal Shock"
     },
     "Thermal Vent": {
-      "es": null,
+      "es": "Ventila Térmica",
       "pt": null,
       "de": "Thermische Entlastung",
       "fr": null,
@@ -4328,7 +4328,7 @@
       "cs": "Double Braced"
     },
     "Flow Control": {
-      "es": null,
+      "es": "Control de Flujo",
       "pt": null,
       "de": "Flusssteuerung",
       "fr": null,
@@ -4337,7 +4337,7 @@
       "cs": "Flow Control"
     },
     "Inertial Impact": {
-      "es": null,
+      "es": "Impacto de Inercia",
       "pt": null,
       "de": "Trägheitseinfluss",
       "fr": null,
@@ -4382,7 +4382,7 @@
       "cs": "Emissive Munitions"
     },
     "Auto Loader": {
-      "es": null,
+      "es": "Auto Cargador",
       "pt": null,
       "de": "Auto-Laden",
       "fr": null,
@@ -4391,7 +4391,7 @@
       "cs": "Auto Loader"
     },
     "Corrosive Shell": {
-      "es": null,
+      "es": "Proyectil Corrosivo",
       "pt": null,
       "de": "Korrosionsgranate",
       "fr": null,
@@ -4400,7 +4400,7 @@
       "cs": "Corrosive Shell"
     },
     "Incendiary Rounds": {
-      "es": null,
+      "es": "Munición Incendiaria",
       "pt": null,
       "de": "Hitzesalven",
       "fr": null,
@@ -4409,7 +4409,7 @@
       "cs": "Incendiary Rounds"
     },
     "Smart Rounds": {
-      "es": null,
+      "es": "Munición Inteligente",
       "pt": null,
       "de": "Intelligente Munition",
       "fr": null,
